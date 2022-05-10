@@ -68,6 +68,9 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
     </button>
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+    </button>
+    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
       <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
     </button>
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
