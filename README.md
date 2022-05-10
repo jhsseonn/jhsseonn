@@ -49,6 +49,12 @@ Here are some ideas to get you started:
   </div>
 </div>
 
+<h3>👋Hello</h3>
+<p>🔭 I’m currently working on app</p>
+<p>👀 I’m currently interesting in ML/DL & Game </p>
+<p>🌱 I’m currently learning Computer Vision etc.</p>
+<p>📫 How to reach me: hosu0125@naver.com</p>
+
 <h3>🌟Main Stack</h3>
 <div class="container">
   <div class="row">
