@@ -82,6 +82,9 @@ Here are some ideas to get you started:
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     </button>
+    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
+      <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white"/>
+    </button>
   </div>
 </div>
 
