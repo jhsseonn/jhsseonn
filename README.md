@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 
 <h3>👋Hello</h3>
 <p>🔭 Current Work: 어플, 게임 기획/개발</p>
-<p>👀 Interests: Game & ML/DL </p>
-<p>🌱 Current Learning: 게임 기획/개발, ML/DL </p>
+<p>👀 Interests: BackEnd & Game </p>
+<p>🌱 Current Learning: BackEnd, 게임 기획/개발</p>
 <p>📫 How to reach me: hosu0125@naver.com</p>
 
 <h3>🌟Main Stack</h3>
