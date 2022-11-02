@@ -59,16 +59,19 @@ Here are some ideas to get you started:
 <div class="container">
   <div class="row">
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     </button>
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+      <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ&logoColor=white"/>
     </button>
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
     </button>
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+    </button>
+    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     </button>
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
       <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
@@ -80,15 +83,12 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
     </button>
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-    </button>
-    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
     </button>
   </div>
 </div>
 
-<h3>✨Sub Stack</h3>
+<h3>✨What I used at least once..</h3>
 <div class="container">
   <div class="row">
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
