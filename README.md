@@ -74,6 +74,21 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     </button>
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+    </button>
+    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+    </button>
+    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    </button>
+  </div>
+</div>
+
+<h3>✨What I used at least once..</h3>
+<div class="container">
+  <div class="row">
+    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
       <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
     </button>
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
@@ -82,18 +97,6 @@ Here are some ideas to get you started:
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
       <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
     </button>
-    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
-    </button>
-    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-    </button>
-  </div>
-</div>
-
-<h3>✨What I used at least once..</h3>
-<div class="container">
-  <div class="row">
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
     </button>
