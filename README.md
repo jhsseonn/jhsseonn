@@ -62,7 +62,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     </button>
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ&logoColor=white"/>
+      <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
     </button>
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
@@ -72,6 +72,9 @@ Here are some ideas to get you started:
     </button>
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    </button>
+    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
+      <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
     </button>
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
       <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
