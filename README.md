@@ -124,9 +124,4 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhsseonn&show_icons=true&theme=cobalt)](https://github.com/jhsseonn/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhsseonn&layout=compact&theme=cobalt)](https://github.com/jhsseonn/github-readme-stats)
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=8FBC8F&height=200&section=footer)
