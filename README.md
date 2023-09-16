@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 </div>
 
 <h3>👋Hello</h3>
-<p>🔭 Current Work: 어플/웹 백엔드 개발</p>
-<p>👀 Interests: Android, BackEnd </p>
-<p>🌱 Current Learning: Android, BackEnd </p>
+<p>🔭 Current Work: Android, Web BackEnd</p>
+<p>👀 Interests: Android, Web BackEnd </p>
+<p>🌱 Current Learning: Android, Web BackEnd </p>
 <p>📫 How to reach me: hosu0125@naver.com</p>
 
 <h3>🌟Main Stack</h3>
