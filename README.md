@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 </div>
 
 <h3>👋Hello</h3>
-<p>🔭 Current Work: Android, Web BackEnd</p>
-<p>👀 Interests: Android, Web BackEnd </p>
-<p>🌱 Current Learning: Android, Web BackEnd </p>
+<p>🔭 Current Work: Web BackEnd</p>
+<p>👀 Interests: Spring Boot, JPA</p>
+<p>🌱 Current Learning: Spring Boot, JPA</p>
 <p>📫 How to reach me: hosu0125@naver.com</p>
 
 <h3>🌟Main Stack</h3>
@@ -65,61 +65,13 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
     </button>
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-    </button>
-    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
-    </button>
-    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     </button>
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
       <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
     </button>
     <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
-    </button>
-    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-    </button>
-  </div>
-</div>
-
-<h3>✨What I used at least once..</h3>
-<div class="container">
-  <div class="row">
-    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
-    </button>
-    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
-    </button>
-    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-    </button>
-    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-    </button>
-    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-    </button>
-    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
-    </button>
-    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
-    </button>
-    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
-    </button>
-    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-    </button>
-    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    </button>
-    <button type="button" class="btn btn-lg btn-outline-primary output col-5">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     </button>
   </div>
 </div>
