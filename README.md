@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=%20JHSSEON%20&fontSize=50&fontColor=01DFD7&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=%20JHSSEON%20&fontSize=50&fontColor=BE81F7&animation=fadeIn)
   
 <a href="https://github.com/jhsseonn"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 <a href="https://github.com/jhsseonn"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
