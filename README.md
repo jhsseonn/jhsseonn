@@ -38,7 +38,7 @@
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhsseonn&layout=donut-vertical&hide=jupyter%20notebook)](https://github.com/jhsseonn/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhsseonn&layout=donut-vertical&hide=python&jupyter%20notebook)](https://github.com/jhsseonn/github-readme-stats)
 
 </div>
 
